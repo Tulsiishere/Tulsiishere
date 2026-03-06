@@ -1,13 +1,15 @@
-# Hi there, I'm Tulsi! 👋
+# Hi there, I'm Tulsi!
 
-I'm a passionate learner exploring various fields in AI, Machine Learning, Deep Learning, and Finance.
+## AI Engineer | Generative AI Developer
 
-- Looking to collaborate on:
-  - Projects related to stock market analysis, equity research
-  - Real-world application of programming.
-  - Projects related to AI, ML, DL.
+**Passionate about building intelligent systems at the intersection of Machine Learning, Generative AI, and real-world applications.**
 
-- How to reach me:
-  - Email: itsmetulsihere@gmail.com
+**I enjoy experimenting with new AI ideas, building end-to-end systems, and exploring how AI can solve practical problems.**
 
-Looking forward to new opportunities and connections! Let's create something awesome together.
+**Curiosity-driven learner and builder.**
+
+**Always open to collaborations and conversations with fellow AI enthusiasts.**
+
+### Connect with me -
+* Email: itsmetulsihere@gmail.com
+* LinkedIn: www.linkedin.com/in/tulsi-pandey
